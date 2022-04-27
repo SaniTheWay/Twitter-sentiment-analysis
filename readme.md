@@ -13,4 +13,6 @@ _Steps to run this project:_
 - 3. run _main.py_
 - 4. Go to the IP that came in step-3
 
-  # if any error in dashboard - kindly reload it once
+---
+
+### if any error in dashboard - kindly reload it once
