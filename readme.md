@@ -1,5 +1,10 @@
-**Assignment Submission for Python Internship - Keev**
+**A twitter sentiment analysis**
 _by Sanidhya Dave_
+
+### Major Tech used:
+- Python
+- Plotly
+- Dash Framework
 
 _Steps to run this project:_
 
